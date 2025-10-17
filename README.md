@@ -1,7 +1,8 @@
 # **Quantum_Amplification**
 *Simulation of structured-bath quantum amplification in superconducting qubits.*
 
-![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sakidja/Quantum-Amplification/blob/main/Quantum_Amplification.ipynb)  
+![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)  
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
@@ -29,7 +30,7 @@ This approach demonstrates how coherence can be preserved and even enhanced thro
 ---
 
 ### 🚀 Usage
-Run the notebook in any Python 3 environment (Jupyter or Google Colab) after installing dependencies:
+Run the notebook in any Python 3 environment (Jupyter or Colab) after installing dependencies:
 
 ```bash
 pip install numpy scipy matplotlib
@@ -38,7 +39,10 @@ pip install numpy scipy matplotlib
 Execution will produce:  
 - 2D gain and spectral maps  
 - Ridge-line data showing peak amplification  
-- Saved outputs in the **`/amplifier_data/`** directory
+- Saved outputs in the **`/amplifier_data/`** directory  
+
+Alternatively, open and run it directly in Google Colab by clicking the badge above or using this link:  
+👉 [**Open Quantum_Amplification.ipynb in Colab**](https://colab.research.google.com/github/sakidja/Quantum-Amplification/blob/main/Quantum_Amplification.ipynb)
 
 ---
 
@@ -62,3 +66,4 @@ Quantum_Amplification/
 ### 📜 License
 This project is distributed under the **MIT License**.  
 You may freely use, modify, and distribute the code with acknowledgment of the original author.
+
