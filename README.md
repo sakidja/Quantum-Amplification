@@ -8,7 +8,7 @@
 ---
 
 ### 🧩 Overview
-This repository contains the notebook **`Quantum_Amplification.ipynb`**, developed as part of the upcoming study *“Quantum Reciprocity: A Structured-Bath Hamiltonian for Coherent Amplification”* (Sakidja, 2025).  
+This repository contains the notebook **`Quantum_Amplification.ipynb`**, developed as part of the upcoming study *“Quantum Reciprocity: A Structured-Bath Hamiltonian for Coherent Amplification”* (Sakidja, 2025).  https://arxiv.org/abs/2510.17572
 It extends the structured-bath framework to demonstrate coherent amplification in superconducting quantum bit devices.
 
 ---
